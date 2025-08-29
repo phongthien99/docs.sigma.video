@@ -23,7 +23,7 @@ The system supports multiple storage types, allowing flexible selection based on
     
     `http://<your-ip>:8019`
     
-    ![image.png](../../../vi/sigma-media-server/image/09-guid-config-manifest-dir/dashbroad.png)
+    ![image.png](../../../public/images/media-server/09-guild-config-manifest-dir/dashbroad.png)
 
 2. Select Manifest Dir storage type
 
@@ -39,7 +39,7 @@ The system supports multiple storage types, allowing flexible selection based on
     - Suitable for **production** environments when **HA, scalability** is needed.
 
 
-![image.png](../../../vi/sigma-media-server/image/09-guid-config-manifest-dir/update-register.png)
+![image.png](../../../public/images/media-server/09-guild-config-manifest-dir/update-register.png)
 
 3. After finishing your edits, click **Save** to save the configuration and apply the upgrade.
 

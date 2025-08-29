@@ -24,7 +24,7 @@ Hệ thống hỗ trợ nhiều loại storage, cho phép linh hoạt lựa ch�
     
     `http://<ip-của-bạn>:8019`
     
-    ![image.png](../image/09-guid-config-manifest-dir/dashbroad.png)
+    ![image.png](../../../public/images/media-server/09-guild-config-manifest-dir/dashbroad.png)
     
 
  2. Chọn loại lưu trữ Manifest Dir
@@ -42,7 +42,7 @@ Hệ thống hỗ trợ nhiều loại storage, cho phép linh hoạt lựa ch�
 
  **
 
-  ![image.png](../image/09-guid-config-manifest-dir/update-register.png)
+  ![image.png](../../../public/images/media-server/09-guild-config-manifest-dir/09-guid-config-manifest-dir/update-register.png)
 
 *3 .Sau khi chỉnh sửa xong, nhấn **Save** để lưu cấu hình và áp dụng nâng cấp.*
 
